@@ -1,5 +1,6 @@
-//
-// Created by jakub on 30.05.2023.
-//
+#include <iostream>
+using namespace std;
 
-#include "main.h"
+int main () {
+    return 0;
+}
