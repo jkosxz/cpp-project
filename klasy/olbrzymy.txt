@@ -1,0 +1,4 @@
+Nazwa klasaGwiazdy Parseki
+G1 Olbrzym 61.3497
+G2 Olbrzym 92.0245
+G3 Olbrzym 34.0491

@@ -1,0 +1,3 @@
+Nazwa Klasa Gwiazdy Półkula AWG Parseki Masa Temperatura
+G4 Karzel POLNOCNA -1.15425 10.7362 7 2300 
+G5 Karzel POLNOCNA 2.85397 6.74847 3 12200 

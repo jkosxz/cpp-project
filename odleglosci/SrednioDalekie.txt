@@ -1,0 +1,2 @@
+Nazwa Klasa Gwiazdy Półkula AWG Parseki Masa Temperatura
+G3 Olbrzym POLUDNIOWA 11.3395 34.0491 1 7500 
